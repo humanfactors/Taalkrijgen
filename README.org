@@ -4,6 +4,6 @@ Deze softwarepakket is in actieve constructie. Het heeft thans heel functies nod
 
 - ShareX record audio
 - AHK script to load and record the translation
-- Export to ~|~ separated file
+- Export to ~|~ separated file (currently INI support broken)
 
 [[assets/C2jwx7GqRy.gif]]
