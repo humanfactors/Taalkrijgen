@@ -59,7 +59,10 @@ WriteDataCSV() {
   FileAppend, %CaptureFile%`| %TranslationText%`n ,%DATA_FILE_NAME_PATH%
 }
 
-g_InputMenu(SOURCE_FILE_PATH)
+F1::g_InputMenu("C:\ShareX\Recording.mp3")
+Return
+
+g_InputMenu("C:\ShareX\Recording.mp3")
 return
 
 ButtonSubmit:

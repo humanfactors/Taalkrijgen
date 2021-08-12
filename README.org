@@ -1,5 +1,9 @@
-<#+TITLE: Krijgen
+* Krijgen
 
-#+CAPTION: This is the caption for the next figure link (or table)
-#+NAME:   fig:SED-HR4049
-[[assets/ItA3LkwQDB.gif]]
+Deze softwarepakket is in actieve constructie. Het heeft thans heel functies nodig, dus blijf op de hoogte.
+
+- ShareX record audio
+- AHK script to load and record the translation
+- Export to ~|~ separated file
+
+[[assets/C2jwx7GqRy.gif]]
